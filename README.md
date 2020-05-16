@@ -1,4 +1,4 @@
-# DrDiagnostic
+# DrDiagnostic - Deathrun mod support
 
 Useful tool for collecting statistics data from deathrun server.
 Reads games_mp.log (where deathrun mod writes tons of statistics information about players, game & maps) and create 'readable' file with this statistics
