@@ -7,3 +7,5 @@ Parameters:
 -verbose 
 -inputLogFile="C:\callofduty4\Mods\deathrun\games_mp.log" 
 -outputLogFile="C:\callofduty4\Mods\deathrun\statistics.log"
+
+Developed around 2014-07-09.
